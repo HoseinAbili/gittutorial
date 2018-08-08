@@ -1,4 +1,4 @@
-GUI Clients
+#GUI Clients
 
 
 Git comes with built-in GUI tools for committing (git-gui) and browsing (gitk), but there are several third-party tools for users looking for platform-specific experience.
@@ -7,121 +7,102 @@ If you want to add another GUI tool to this list, just follow the instructions.
 
 I personally recommend GitKraken.
 
-SourceTree
+###SourceTree
 Platforms: Mac, Windows
 Price: Free
 License: Proprietary
 
-  
-GitHub Desktop
+###GitHub Desktop
 Platforms: Mac, Windows
 Price: Free
 License: MIT
 
- 
-TortoiseGit
+###TortoiseGit
 Platforms: Windows
 Price: Free
 License: GNU GPL
 
-  
-Git Extensions
+###Git Extensions
 Platforms: Linux, Mac, Windows
 Price: Free
 License: GNU GPL
 
- 
-GitKraken
+###GitKraken
 Platforms: Linux, Mac, Windows
 Price: Free for non-commercial use
 License: Proprietary
-
   
-SmartGit
+###SmartGit
 Platforms: Linux, Mac, Windows
 Price: $79/user / Free for non-commercial use
 License: Proprietary
 
- 
-Tower
+###Tower
 Platforms: Mac, Windows
 Price: $79/user (Free 30 day trial)
 License: Proprietary
 
-  
-GitEye
+###GitEye
 Platforms: Linux, Mac, Windows
 Price: Free
 License: Proprietary
 
- 
-gitg
+###gitg
 Platforms: Linux, Windows
 Price: Free
 License: GNU GPL
 
-  
-ungit
+###ungit
 Platforms: Linux, Mac, Windows
 Price: Free
 License: MIT
 
- 
-git-cola
+###git-cola
 Platforms: Linux, Mac, Windows
 Price: Free
 License: GNU GPL
 
-  
-Cycligent Git Tool
+###Cycligent Git Tool
 Platforms: Linux, Mac, Windows
 Price: Free
 License: Proprietary
 
- 
-Aurees
+###Aurees
 Platforms: Mac, Windows
 Price: Free
 License: Proprietary
 
-  
-Fork
+###Fork
 Platforms: Mac, Windows
 Price: Free
 License: Proprietary
 
- 
-CodeReview
+###CodeReview
 Platforms: Linux, Mac, Windows
 Price: Free
 License: GNU GPL
 
-  
-gmaster
+###gmaster
 Platforms: Windows
 Price: Beta / Free for non-commercial use
 License: Proprietary
 
- 
-GitAhead
+###GitAhead
 Platforms: Linux, Mac, Windows
 Price: Free for non-commercial use
 License: Proprietary
 
-  
-Guitar
+###Guitar
 Platforms: Linux, Mac, Windows
 Price: Free
 License: GNU GPL
 
- 
-RepoZ
+###RepoZ
 Platforms: Mac, Windows
 Price: Free
 License: MIT
 
-  
-GitAtomic
+###GitAtomic
 Platforms: Windows
 Price: 15.00€
 License: Proprietary
